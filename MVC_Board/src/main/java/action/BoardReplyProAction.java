@@ -54,10 +54,3 @@ public class BoardReplyProAction implements Action {
 	}
 
 }
-
-
-
-
-
-
-

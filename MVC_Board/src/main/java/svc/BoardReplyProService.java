@@ -39,14 +39,3 @@ public class BoardReplyProService {
 		return isReplySuccess;
 	}
 }
-
-
-
-
-
-
-
-
-
-
-

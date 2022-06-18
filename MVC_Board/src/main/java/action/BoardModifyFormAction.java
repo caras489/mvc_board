@@ -37,16 +37,3 @@ public class BoardModifyFormAction implements Action {
 	}
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-

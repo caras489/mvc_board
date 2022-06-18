@@ -465,10 +465,3 @@ public class BoardDAO {
 	}
 	
 }
-
-
-
-
-
-
-

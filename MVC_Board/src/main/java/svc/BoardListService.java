@@ -62,14 +62,3 @@ public class BoardListService {
 	}
 
 }
-
-
-
-
-
-
-
-
-
-
-

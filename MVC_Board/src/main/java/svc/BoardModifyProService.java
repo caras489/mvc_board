@@ -59,14 +59,3 @@ public class BoardModifyProService {
 		return isModifySuccess;
 	}
 }
-
-
-
-
-
-
-
-
-
-
-

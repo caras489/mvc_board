@@ -70,10 +70,3 @@ public class BoardModifyProAction implements Action {
 	}
 
 }
-
-
-
-
-
-
-

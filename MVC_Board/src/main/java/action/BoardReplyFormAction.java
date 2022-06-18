@@ -36,16 +36,3 @@ public class BoardReplyFormAction implements Action {
 	}
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-

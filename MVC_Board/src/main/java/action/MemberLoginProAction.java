@@ -53,15 +53,3 @@ public class MemberLoginProAction implements Action {
 	}
 
 }
-
-
-
-
-
-
-
-
-
-
-
-

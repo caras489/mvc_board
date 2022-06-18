@@ -49,15 +49,3 @@ public class MemberJoinProAction implements Action {
 	}
 
 }
-
-
-
-
-
-
-
-
-
-
-
-

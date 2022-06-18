@@ -19,7 +19,6 @@ public class BoardDeleteProAction implements Action {
 		// 전달받은 파라미터 가져오기
 		int board_num = Integer.parseInt(request.getParameter("board_num"));
 		String pageNum = request.getParameter("page");
-		
 		String board_pass = request.getParameter("board_pass");
 		
 		// BoardDeleteProService 클래스의 isArticleWriter() 메서드를 호출하여 패스워드 판별 요청
@@ -64,16 +63,4 @@ public class BoardDeleteProAction implements Action {
 		
 		return forward;
 	}
-
 }
-
-
-
-
-
-
-
-
-
-
-

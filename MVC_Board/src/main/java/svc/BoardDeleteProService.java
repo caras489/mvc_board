@@ -54,21 +54,4 @@ public class BoardDeleteProService {
 		
 		return isDeleteSuccess;
 	}
-	
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+}	

@@ -27,14 +27,3 @@ public class MemberLoginProService {
 		return isMember;
 	}
 }
-
-
-
-
-
-
-
-
-
-
-

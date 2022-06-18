@@ -120,19 +120,4 @@ public class MemberDAO {
 		
 		return isMember;
 	}
-	
-	
 }
-
-
-
-
-
-
-
-
-
-
-
-
-

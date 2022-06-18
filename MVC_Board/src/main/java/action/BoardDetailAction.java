@@ -45,23 +45,3 @@ public class BoardDetailAction implements Action {
 	}
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

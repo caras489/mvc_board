@@ -22,19 +22,3 @@ public interface Action {
 	// => 내부에서 발생하는 모든 예외를 외부로 위임(던짐)
 	public ActionForward execute(HttpServletRequest request, HttpServletResponse response) throws Exception;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -134,17 +134,3 @@ public class BoardWriteProAction implements Action {
 	}
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-

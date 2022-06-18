@@ -123,19 +123,3 @@ public class JdbcUtil {
 	}
 	
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

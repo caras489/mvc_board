@@ -35,14 +35,3 @@ public class MemberJoinProService {
 		return isRegistSuccess;
 	}
 }
-
-
-
-
-
-
-
-
-
-
-

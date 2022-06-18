@@ -81,17 +81,3 @@ public class BoardWriteProAction_Temp implements Action {
 	}
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
